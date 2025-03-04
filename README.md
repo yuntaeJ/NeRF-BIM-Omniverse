@@ -6,11 +6,12 @@ The codes for generating camera views related to building elements from BIM in N
 ```
 @article{jeon2025neural,
   title={Neural radiance fields for construction site scene representation and progress evaluation with BIM},
-  author={Jeon, Yuntae and Vo, Khoa Tran Dang and Jeon, Jaehyun and Park, Minsoo and Park, Seunghee and others},
+  author={Yuntae Jeon and Dai Quoc Tran and Khoa Tran Dang Vo and Jaehyun Jeon and Minsoo Park and Seunghee Park},
   journal={Automation in Construction},
   volume={172},
   pages={106013},
   year={2025},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi={https://doi.org/10.1016/j.autcon.2025.106013}
 }
 ```
